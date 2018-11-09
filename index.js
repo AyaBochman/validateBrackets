@@ -1,11 +1,11 @@
 const DOM = function (){
+
 return{
     input: document.getElementById("brInput")
   
 }
+
 }();
-
-
 
 const dic = { '{': '}', '[': ']', '(': ')' };
 
